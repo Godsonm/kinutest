@@ -5,7 +5,8 @@ $geeks = array (
 	'Terence',
 	'Daniel',
 	'Caleb',
-	'Michael'
+	'Michael',
+        'Kassim'
 );
 
 foreach($geeks as $geek)
