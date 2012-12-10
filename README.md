@@ -1,7 +1,7 @@
 kinutest
 ========
 
-kinutest repository for mobile monday
+samweli first push
 
 Edited by Mark
 
